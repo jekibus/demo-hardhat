@@ -8,6 +8,13 @@
 - Go to detector directory (cd detector)
 - Install library (pip3 install -r requirements.txt)
 
+## Setup
+### WAService
+- Go to detector directory (cd detector)
+- Open main.py
+- Change WA_NUMBER with your target number
+- Change WA_MESSAGE with your message
+
 ## Running App
 ### WAService
 - Go to waservice directory (cd waservice)
