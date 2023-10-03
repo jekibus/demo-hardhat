@@ -1,0 +1,4 @@
+/waservice/node_modules
+/waservice/auth_info_baileys
+/waservice/package-lock.json
+/detector/__pycache__
