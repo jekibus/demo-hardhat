@@ -1,5 +1,8 @@
 # Detection Hat Color and Send Notification to Whatsapp
 
+See the result: 
+https://raw.githubusercontent.com/jekibus/demo-hardhat/master/result.mp4
+
 ## Install
 ### WAService
 - Go to waservice directory (cd waservice)
